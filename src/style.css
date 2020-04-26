@@ -1,0 +1,17 @@
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.header{
+  color: #fff;
+  font-size: 2rem;
+}
+.content{
+  padding: 20px 0;
+}
+.done{
+  text-decoration: line-through;
+}
+.important{
+  font-weight: bold;
+}
